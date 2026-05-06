@@ -1,0 +1,417 @@
+{
+  "profile": {
+    "author": "Mahdhi Muzammil",
+    "title": "Mahdhi Muzammil | Full-Stack Developer & AI Engineer",
+    "role": "Full-Stack Developer & AI Engineer",
+    "descriptionLong": "Full-Stack Developer and AI Engineer based in Abu Dhabi, UAE. I build AI-powered workflows, multi-agent systems, and production web applications using React, Next.js, Node.js, Python, and cutting-edge LLM tooling.",
+    "descriptionShort": "Full-Stack Developer & AI Engineer based in Abu Dhabi, UAE.",
+    "email": "mahdhi2004@gmail.com",
+    "site": "https://m4hdhi.github.io",
+    "resumeUrl": "https://drive.google.com/file/d/1k-qR6ApnwCyvOuhfZ3VJRbUG7u_FL2PG/view?usp=sharing",
+    "githubUsername": "m4hdhi",
+    "githubRepo": "mahdhi-portfolio",
+    "keywords": [
+      "Mahdhi",
+      "portfolio",
+      "full-stack developer",
+      "creative technologist",
+      "web development",
+      "3D animations",
+      "interactive websites",
+      "web design",
+      "AI Engineer",
+      "React",
+      "Next.js",
+      "LangChain",
+      "CrewAI",
+      "RAG",
+      "Abu Dhabi",
+      "UAE"
+    ]
+  },
+  "social": {
+    "twitter": "https://x.com/m4hdh1",
+    "linkedin": "https://www.linkedin.com/in/m4hdhi",
+    "instagram": "https://www.instagram.com/m4hdhi",
+    "facebook": "https://www.facebook.com/m4hdhi/",
+    "github": "https://github.com/m4hdhi"
+  },
+  "settings": {
+    "websocketUrl": "http://localhost:4000"
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "js",
+      "label": "JavaScript",
+      "shortDescription": "JavaScript for interactive web experiences.",
+      "color": "#f0db4f",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "ts",
+      "label": "TypeScript",
+      "shortDescription": "Typed JavaScript for safer, scalable apps.",
+      "color": "#007acc",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    },
+    {
+      "id": 3,
+      "name": "html",
+      "label": "HTML",
+      "shortDescription": "Semantic structure for modern websites.",
+      "color": "#e34c26",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "id": 4,
+      "name": "css",
+      "label": "CSS",
+      "shortDescription": "Responsive styling, layout, and visual polish.",
+      "color": "#563d7c",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+      "id": 5,
+      "name": "react",
+      "label": "React",
+      "shortDescription": "Component-driven frontend interfaces.",
+      "color": "#61dafb",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": 6,
+      "name": "vue",
+      "label": "Vue",
+      "shortDescription": "Progressive frontend applications.",
+      "color": "#41b883",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+    },
+    {
+      "id": 7,
+      "name": "nextjs",
+      "label": "Next.js",
+      "shortDescription": "Production React apps with routing and server rendering.",
+      "color": "#ffffff",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "id": 8,
+      "name": "tailwind",
+      "label": "Tailwind",
+      "shortDescription": "Fast utility-first interface styling.",
+      "color": "#38bdf8",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    },
+    {
+      "id": 9,
+      "name": "nodejs",
+      "label": "Node.js",
+      "shortDescription": "Backend services and API development.",
+      "color": "#6cc24a",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "id": 10,
+      "name": "express",
+      "label": "Express",
+      "shortDescription": "Lightweight Node.js API servers.",
+      "color": "#ffffff",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    },
+    {
+      "id": 11,
+      "name": "postgres",
+      "label": "PostgreSQL",
+      "shortDescription": "Relational database design and querying.",
+      "color": "#336791",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "id": 12,
+      "name": "mongodb",
+      "label": "MongoDB",
+      "shortDescription": "Document database modelling and APIs.",
+      "color": "#336791",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "id": 13,
+      "name": "git",
+      "label": "Git",
+      "shortDescription": "Version control and collaborative development.",
+      "color": "#f1502f",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    },
+    {
+      "id": 14,
+      "name": "github",
+      "label": "GitHub",
+      "shortDescription": "Repositories, issues, and deployment workflows.",
+      "color": "#000000",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    },
+    {
+      "id": 15,
+      "name": "prettier",
+      "label": "Prettier",
+      "shortDescription": "Consistent code formatting.",
+      "color": "#f7b93a",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg"
+    },
+    {
+      "id": 16,
+      "name": "npm",
+      "label": "NPM",
+      "shortDescription": "JavaScript dependency management.",
+      "color": "#ffffff",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+    },
+    {
+      "id": 17,
+      "name": "firebase",
+      "label": "Firebase",
+      "shortDescription": "Realtime app backends and auth services.",
+      "color": "#ffca28",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+    },
+    {
+      "id": 18,
+      "name": "wordpress",
+      "label": "WordPress",
+      "shortDescription": "CMS websites and content workflows.",
+      "color": "#007acc",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+    },
+    {
+      "id": 19,
+      "name": "linux",
+      "label": "Linux",
+      "shortDescription": "Server environments and command line workflows.",
+      "color": "#ffffff",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    },
+    {
+      "id": 20,
+      "name": "docker",
+      "label": "Docker",
+      "shortDescription": "Containerized development and deployment.",
+      "color": "#2496ed",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    },
+    {
+      "id": 21,
+      "name": "nginx",
+      "label": "NginX",
+      "shortDescription": "Reverse proxy and web server configuration.",
+      "color": "#008000",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+    },
+    {
+      "id": 22,
+      "name": "aws",
+      "label": "AWS",
+      "shortDescription": "Cloud infrastructure and managed services.",
+      "color": "#ff9900",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"
+    },
+    {
+      "id": 25,
+      "name": "gcp",
+      "label": "Google Cloud",
+      "shortDescription": "Cloud hosting, APIs, and infrastructure.",
+      "color": "#4285f4",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+    },
+    {
+      "id": 23,
+      "name": "vim",
+      "label": "Vim",
+      "shortDescription": "Fast keyboard-driven editing.",
+      "color": "#e34c26",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
+    },
+    {
+      "id": 24,
+      "name": "vercel",
+      "label": "Vercel",
+      "shortDescription": "Frontend deployment and previews.",
+      "color": "#6cc24a",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "startDate": "April 2026",
+      "endDate": "Present",
+      "title": "Agentic AI Developer / AI Solutions Developer",
+      "company": "Department of Education And Knowledge - ADEK",
+      "description": [
+        "Develop AI-powered educational tools and agentic workflows for student-focused learning activities.",
+        "Build AI assistants and automation prototypes to support interactive learning, guidance, and evaluation.",
+        "Design practical AI use cases involving prompt engineering, multi-step workflows, RAG concepts, and AI-driven feedback.",
+        "Assist in creating curriculum materials, technical guides, slide decks, and hands-on worksheets for a 5-day AI enrichment program.",
+        "Convert educational requirements into usable AI tools, learning activities, and classroom-ready deliverables.",
+        "Support testing, refinement, and documentation of AI-based learning solutions before program delivery."
+      ],
+      "skills": [
+        "nextjs",
+        "ts",
+        "react",
+        "nodejs",
+        "postgres",
+        "mongodb",
+        "docker",
+        "gcp"
+      ]
+    },
+    {
+      "id": 2,
+      "startDate": "Apr 2024",
+      "endDate": "Mar 2026",
+      "title": "Full-Stack Developer / AI Engineer",
+      "company": "ROBOTUAE",
+      "description": [
+        "Design and build AI-powered workflows for marketing, product operations, customer support, and internal automation.",
+        "Develop AI assistants, automation tools, and prototype agentic workflows for business and e-commerce use cases.",
+        "Build and maintain WordPress, WooCommerce, Shopify, and custom web solutions to improve online visibility and customer experience.",
+        "Integrate APIs, analytics tools, SEO systems, product catalogues, and automation workflows for real-time business operations.",
+        "Work with robotics and electronics products including Arduino, Raspberry Pi, sensors, IoT modules, and educational kits.",
+        "Support digital marketing, product listing, local SEO, website optimization, stock management, and technical product documentation."
+      ],
+      "skills": [
+        "react",
+        "vue",
+        "nodejs",
+        "express",
+        "mongodb",
+        "postgres",
+        "tailwind",
+        "wordpress"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "codingducks",
+      "category": "Coding platform",
+      "title": "Coding Ducks",
+      "src": "/assets/projects-screenshots/codingducks/landing.png",
+      "live": "https://www.codingducks.xyz/",
+      "github": "https://github.com/m4hdhi/Coding-Ducks",
+      "featured": true,
+      "frontendSkills": [
+        "ts",
+        "next",
+        "chakra",
+        "reactQuery",
+        "firebase"
+      ],
+      "backendSkills": [
+        "node",
+        "express",
+        "prisma",
+        "python",
+        "postgres",
+        "sockerio"
+      ]
+    },
+    {
+      "id": "couponluxury",
+      "category": "Coupon site",
+      "title": "Coupon Luxury",
+      "src": "/assets/projects-screenshots/couponluxury/landing.png",
+      "live": "https://www.couponluxury.com/",
+      "github": "",
+      "featured": true,
+      "frontendSkills": [
+        "js",
+        "next",
+        "chakra",
+        "vue"
+      ],
+      "backendSkills": [
+        "node",
+        "express",
+        "prisma",
+        "postgres",
+        "docker"
+      ]
+    },
+    {
+      "id": "the-booking-desk",
+      "category": "Travel",
+      "title": "The Booking Desk",
+      "src": "/assets/projects-screenshots/the-booking-desk/landing.png",
+      "live": "https://thebookingdesk.com/",
+      "github": "",
+      "featured": true,
+      "frontendSkills": [
+        "ts",
+        "next",
+        "aceternity",
+        "tailwind"
+      ],
+      "backendSkills": [
+        "sanity"
+      ]
+    },
+    {
+      "id": "portfolio",
+      "category": "Portfolio",
+      "title": "My Portfolio",
+      "src": "/assets/projects-screenshots/portfolio/landing.png",
+      "live": "https://m4hdhi.github.io",
+      "github": "https://github.com/m4hdhi/mahdhi-portfolio",
+      "featured": true,
+      "frontendSkills": [
+        "ts",
+        "next",
+        "shadcn",
+        "aceternity",
+        "framerMotion",
+        "tailwind",
+        "spline"
+      ],
+      "backendSkills": []
+    },
+    {
+      "id": "ghostchat",
+      "category": "Anonymous chat",
+      "title": "GhostChat",
+      "src": "/assets/projects-screenshots/ghostchat/1.png",
+      "live": "https://ghostchat.vercel.app",
+      "github": "https://github.com/m4hdhi/GhostChat",
+      "featured": true,
+      "frontendSkills": [
+        "js",
+        "next",
+        "chakra"
+      ],
+      "backendSkills": [
+        "supabase"
+      ]
+    },
+    {
+      "id": "jra",
+      "category": "Result analyzer",
+      "title": "JNTUA Results Analyzer",
+      "src": "/assets/projects-screenshots/jra/1.png",
+      "live": "https://m4hdhi.github.io/JNTUA-result-analyser-spa/#/",
+      "github": "",
+      "featured": true,
+      "frontendSkills": [
+        "js",
+        "vue"
+      ],
+      "backendSkills": [
+        "node",
+        "mongo",
+        "express",
+        "docker"
+      ]
+    }
+  ]
+}
